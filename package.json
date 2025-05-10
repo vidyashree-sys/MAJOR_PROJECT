@@ -2,7 +2,6 @@
   
     "engines": {
       "node": "v22.14.0"
-
     },
   
   "name": "major_project",
